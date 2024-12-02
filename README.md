@@ -17,7 +17,7 @@ A modern Haskell-powered weather information retrieval CLI that provides detaile
 - Haskell Stack (v2.13.1 or higher)
 - OpenWeatherMap API Key
 
-## Installation
+## Installation ⚙️
 
 ### 1. Clone the Repository
 ```bash
