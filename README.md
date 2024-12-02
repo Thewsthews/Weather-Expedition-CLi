@@ -4,7 +4,7 @@
 
 A modern Haskell-powered weather information retrieval CLI that provides detailed meteorological data for lunar mission planning and terrestrial weather analysis.
 
-## Features
+## Features 👾
 
 - 🌍 Real-time weather data retrieval
 - 🌡️ Temperature reporting in metric units
