@@ -12,7 +12,7 @@ A modern Haskell-powered weather information retrieval CLI that provides detaile
 - 🌐 Global city support
 - 🚀 Designed with lunar expedition requirements in mind
 
-## Prerequisites
+## Prerequisites 🐧
 
 - Haskell Stack (v2.13.1 or higher)
 - OpenWeatherMap API Key
