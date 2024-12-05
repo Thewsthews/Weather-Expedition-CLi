@@ -50,7 +50,7 @@ stack run weather-app London
 stack run weather-app "New York"
 stack run weather-app Tokyo
 ```
-Development
+Development ⚡
 Running Tests
 ```bash
 stack test
