@@ -29,7 +29,7 @@ cd lunar-weather-expedition
 stack setup
 stack build
 ```
-Configuration
+Configuration 🪛
 
 1. Obtain an OpenWeatherMap API Key:
 
