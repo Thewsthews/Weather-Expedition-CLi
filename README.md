@@ -33,7 +33,7 @@ Configuration 🪛
 
 1. Obtain an OpenWeatherMap API Key:
 
-Visit OpenWeatherMap
+Visit OpenWeatherMap ☁️
 Create a free account
 Generate an API key
 
@@ -55,7 +55,7 @@ Running Tests
 ```bash
 stack test
 ```
-Build Variants
+Build Variants 
 ```bash
 # Development build
 stack build
