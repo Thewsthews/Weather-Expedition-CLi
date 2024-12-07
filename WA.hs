@@ -9,7 +9,7 @@ module WeatherApp where
     data WeatherData = WeatherData
     {
         cityName :: T.Text
-        , temperature ::Double
+        , temperature :: Double
         , description :: T.Text
         , humidity :: Int
     } deriving (Generic, Show)
