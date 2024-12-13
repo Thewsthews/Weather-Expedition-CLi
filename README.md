@@ -1,6 +1,6 @@
 # Lunar Weather Expedition CLI
 
-## Project Overview
+## Project Overview 🔭
 
 A modern Haskell-powered weather information retrieval CLI that provides detailed meteorological data for lunar mission planning and terrestrial weather analysis.
 
