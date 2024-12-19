@@ -55,7 +55,7 @@ Running Tests
 ```bash
 stack test
 ```
-Build Variants 
+Build Variants 🛡️
 ```bash
 # Development build
 stack build
