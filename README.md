@@ -19,7 +19,7 @@ A modern Haskell-powered weather information retrieval CLI that provides detaile
 
 ## Installation ⚙️
 
-### 1. Clone the Repository
+### 1. Clone the Repository 🀄️
 ```bash
 git clone https://github.com/yourusername/lunar-weather-expedition.git
 cd lunar-weather-expedition
