@@ -1,4 +1,4 @@
-# Lunar Weather Expedition CLI
+# Lunar Weather Expedition CLI 🌕
 
 ## Project Overview 🔭
 
