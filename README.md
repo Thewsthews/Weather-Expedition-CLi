@@ -60,6 +60,6 @@ Build Variants 🛡️
 # Development build
 stack build
 
-# Production build
+# Production build 🔰
 stack build --optimize
 ```
